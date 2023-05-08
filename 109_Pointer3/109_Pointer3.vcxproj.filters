@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="109_Pointer3.cpp">
+    <ClCompile Include="109_FriendClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
